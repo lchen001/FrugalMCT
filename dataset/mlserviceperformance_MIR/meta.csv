@@ -1,0 +1,5 @@
+Index,MLaaS(API),Cost per 10k texts,label number
+0,Google,15,2
+2,Microsoft,10,2
+6,EveryPixel,6,2
+100000,GitHub(SSD),0.001,2
